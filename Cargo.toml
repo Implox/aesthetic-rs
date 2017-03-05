@@ -1,0 +1,15 @@
+[package]
+name = "aesthetic"
+version = "1.0.0"
+authors = ["Alex Flores <alexmflores@gmail.com>"]
+
+[dependencies]
+unicode_hfwidth = "0.2.0"
+
+[lib]
+name = "libaesthetic"
+path = "src/lib.rs"
+
+[[bin]]
+name = "aesthetic"
+path = "src/main.rs"
