@@ -3,6 +3,18 @@ name = "aesthetic"
 version = "1.0.0"
 authors = ["Alex Flores <alexmflores@gmail.com>"]
 
+description = "A command-line tool for making your text ＡＥＳＴＨＥＴＩＣ in the vaporwave style."
+
+documentation = "https://www.github.com/Implox/aesthetic-rs/"
+homepage = "https://www.github.com/Implox/aesthetic-rs"
+repository = "https://www.github.com/Implox/aesthetic-rs"
+
+readme = "README.md"
+
+keywords = ["aesthetic", "vaporwave"]
+
+license = "WTFPL"
+
 [dependencies]
 unicode_hfwidth = "0.2.0"
 
